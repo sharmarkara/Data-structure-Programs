@@ -1,1 +1,21 @@
 
+# This file contains all the programs of the array.
+
+What is an Array?
+Array is a data structure used to store homogeneous elements at contiguous locations.
+One memory block is allocated for the entire array to hold the elements of the array. The array elements can be accessed in constant time by using the index of the particular element as the subscript.
+Properties of Arrays:
+Arrays stores similar data types. That is, array can hold data of same data type values. This is one of the limitations of arrays compared to other data structures.
+
+Each value stored, in an array, is known as an element and all elements are indexed. The first element added, by default, gets 0 index. That is, the 5th element added gets an index number of 4.
+
+Elements can be retrieved by their index number. (random access)
+
+Array elements are stored in contiguous (continuous) memory locations.
+
+One array name can represent multiple values. Array is the easiest way to store a large quantity of data of same data types. For example, to store the salary of 100 employees, it is required to declare 100 variables. But with arrays, with one array name all the 100 employees salaries can be stored.
+
+At the time of creation itself, array size should be declared (array initialization does not require size).
+
+Arrays in Python:
+Python does not have a native support for arrays, but has a more generic data structure called LIST. List provides all the options as array with more functionality. But with few tweaks we can implement Array data structure in Python. We will be seeing how to do this.
