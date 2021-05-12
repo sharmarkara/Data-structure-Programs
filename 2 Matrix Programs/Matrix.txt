@@ -1,0 +1,3 @@
+# This file contains all the program of the Matrix.
+Matrix is a special case of two dimensional array where each data element is of strictly same size. So every matrix is also a two dimensional array but not vice versa.
+Matrices are very important data structures for many mathematical and scientific calculations.
