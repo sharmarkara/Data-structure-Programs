@@ -3,7 +3,8 @@
 
 What is an Array?
 Array is a data structure used to store homogeneous elements at contiguous locations.
-One memory block is allocated for the entire array to hold the elements of the array. The array elements can be accessed in constant time by using the index of the particular element as the subscript.
+One memory block is allocated for the entire array to hold the elements of the array. 
+The array elements can be accessed in constant time by using the index of the particular element as the subscript.
 Properties of Arrays:
 Arrays stores similar data types. That is, array can hold data of same data type values. This is one of the limitations of arrays compared to other data structures.
 
